@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate developer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/iam_rono" target="blank"><img src="https://img.shields.io/twitter/follow/iam_rono?logo=twitter&style=for-the-badge" alt="iam_rono" /></a> </p>
 
